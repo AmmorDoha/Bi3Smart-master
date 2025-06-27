@@ -46,9 +46,12 @@ le diagramme de classe
 Les langages utilisés
 
 Python :
+
+
 ![image](https://github.com/user-attachments/assets/ebbe89a4-5e99-450d-a4b2-d828ac1febe0)
 
 Django:
+
 
 ![image](https://github.com/user-attachments/assets/23b91505-15b9-4054-a6d2-2763f981ecdc)
 
@@ -132,5 +135,6 @@ python manage.py runserver
 
 ```
 .venv\Scripts\activate
+sudo .venv/Scripts/activate
 python manage.py runserver
 ```
